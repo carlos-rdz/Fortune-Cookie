@@ -4,6 +4,7 @@ const triggerELement_Joke = document.querySelector(`[data-trigger="Joke"]`);
 const outputElement = document.querySelector('[data-output]');
 const outputElementimg = document.querySelector('[data-imgoutput]');
 
+
 const fortunes = [
     { fortune:"Meh", image: "images/meh.png"},
     { fortune:"Ignore previous fortunes", image:"images/ignore.jpeg"},
